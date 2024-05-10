@@ -1,2 +1,5 @@
 # Exploratory_Data_Analysis_on_Graduates_Salary
 This analysis is to perform Exploratory Data Analysis (EDA) on the engineering graduates' salary dataset to identify trends and insights regarding the relationship between different factors such as degree, specialization, and various engineering aspects with salary
+The objective of this analysis is to perform Exploratory Data Analysis (EDA) on the engineering graduates' salary dataset to identify trends and insights regarding the relationship between different factors such as degree, specialization, and various engineering aspects with salary. By exploring these relationships, the analysis aims to uncover patterns in salary distributions across different degrees and specializations, identify high-demand engineering fields, and assess the market value of various courses. Ultimately, the analysis seeks to provide valuable insights for students, educators, and industry stakeholders to make informed decisions regarding education, career paths, and workforce planning in the engineering domain.
+
+Dataset used: Engineering_graduate_salary.csv
